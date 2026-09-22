@@ -1,5 +1,5 @@
 {
-  "name": "object-fit",
+  "name": "object-fit-1.0",
   "title": "object-fit polyfill",
   "description": "Polyfill for the CSS object-fit property to fit images into containers",
   "version": "0.4.3",
